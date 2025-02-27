@@ -43,7 +43,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/EvanderInacio/E-Shop.git
+$ git clone https://github.com/annalaura2/e-shop.git
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd e-shop
@@ -64,10 +64,10 @@ $ npm run dev
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/EvanderInacio">
+      <a href="https://github.com/annalaura2">
         <img src="https://avatars.githubusercontent.com/u/72362299?s=96&v=4" width="100px;" /><br>
         <sub>
-          <b>Evander Inácio</b>
+          <b>Anna Laura</b>
         </sub>
       </a>
     </td>
@@ -76,4 +76,4 @@ $ npm run dev
 
 ---
 
-  <h3 align="center"> Developed by <a href="https://www.linkedin.com/in/evander-inacio/">Evander Inácio</a> ☕</h3>
+  <h3 align="center"> Developed by <a href="https://www.linkedin.com/in/anna-laura-39158821a/">Anna Laura</a> ☕</h3>
